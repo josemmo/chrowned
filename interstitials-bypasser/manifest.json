@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Interstitials bypasser",
+    "description": "Proof-of-Concept extension for bypassing interstitials",
+    "version": "0.0.1",
+    "permissions": [
+        "debugger",
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

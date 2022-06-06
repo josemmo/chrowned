@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Incognito tabs debugger",
+    "description": "Proof-of-Concept extension for debugging tabs from incognito windows",
+    "version": "0.0.1",
+    "permissions": [
+        "tabs", // Only needed to open a new tab in an incognito window (for demo purposes)
+        "debugger"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
