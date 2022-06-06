@@ -17,8 +17,8 @@ presence of hardcoded IDs in Chromium's source code.
 
 The PoC extension will automatically open a new tab containing sensitive
 information extracted from the following two extensions:
-- LastPass (hdokiejnpimakedhajhdlcegeplioahd)
-- Mailvelope (kajibbejlbohfaggdiogboambcijhkke)
+- LastPass (`hdokiejnpimakedhajhdlcegeplioahd`)
+- Mailvelope (`kajibbejlbohfaggdiogboambcijhkke`)
 
 ## Timeline
 - 2021-12-03: Reported to Google in https://crbug.com/1276497
