@@ -12,19 +12,19 @@ All sample extensions can be installed by either:
 
 ## Contents
 - **Listing active targets**
-    - [Running extensions detector](running-extensions-detector/)
+    - [Running extensions detector](running-extensions-detector/README.md)
 - **Running on regular tabs**
-    - [Incognito tabs debugger](incognito-tabs-debugger/)
-    - [Cookie stealer](cookie-stealer/)
+    - [Incognito tabs debugger](incognito-tabs-debugger/README.md)
+    - [Cookie stealer](cookie-stealer/README.md)
 - **Running on security interstitial tabs**
-    - [Interstitials bypasser](interstitials-bypasser/)
+    - [Interstitials bypasser](interstitials-bypasser/README.md)
 - **Running on WebUI tabs**
-    - [Credit card stealer](credit-card-stealer/)
+    - [Credit card stealer](credit-card-stealer/README.md)
 - **Running on other extensions**
-    - [Password stealer](password-stealer/)
+    - [Password stealer](password-stealer/README.md)
 - **Attaching to the browser target**
-    - [Another credit card stealer](another-credit-card-stealer/)
-    - [Traffic monitor](traffic-monitor/)
+    - [Another credit card stealer](another-credit-card-stealer/README.md)
+    - [Traffic monitor](traffic-monitor/README.md)
 
 ## License
 The contents of this repository are available under the [MIT License](LICENSE).
