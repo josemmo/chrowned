@@ -4,7 +4,7 @@
 An extension with the ID `lfmkphfpdbjijhpomgecfikhfohaoine` (Perfetto UI
 extension) is able to access the browser target through the Debugger API.
 By using a "proxy" target to redirect CDP commands, such an extension can
-evaluate arbitrary JavaScript code on any active target (including Web UI
+evaluate arbitrary JavaScript code on any active target (including WebUI
 tabs and service workers and background pages from other extensions).
 
 An attacker who convinced a user to install a malicious extension can

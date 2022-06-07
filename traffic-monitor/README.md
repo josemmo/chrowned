@@ -4,7 +4,7 @@
 An extension with the ID `lfmkphfpdbjijhpomgecfikhfohaoine` (Perfetto UI
 extension) can monitor and intercept all network traffic originating from
 tab frames, web workers and extension background pages running outside the
-Web UI scheme.
+WebUI scheme.
 
 This method will work with requests and responses originating from an
 incognito window even when the extension is not allowed to run it that
