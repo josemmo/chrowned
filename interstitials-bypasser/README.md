@@ -23,3 +23,4 @@ visual feedback.
 - 2022-04-19: Submitted fix in https://crrev.com/c/3594083
 - 2022-04-26: Merged in https://chromiumdash.appspot.com/commit/2d1a92dd76bbe7d7e5463c8ec57edba721793247
 - 2022-04-27: Landed in Chromium Canary 103.0.5028.0
+- 2022-06-21: Landed in Chromium Stable 103.0.5060.53
