@@ -2,6 +2,7 @@
 This repository contains the artifacts for the aforementioned paper.
 Each directory contains the files for a different Proof-Of-Concept Chromium
 extension.
+All extensions are written using the Manifest V3 specification.
 
 ## Getting Started
 All sample extensions can be installed by either:
