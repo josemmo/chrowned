@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+type: software
+url: https://github.com/josemmo/chrowned
+title: 'Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API'
+message: If you use any of these Proof-of-Concepts, please cite as below.
+license: MIT
+authors:
+  - family-names: Moreno
+    given-names: José Miguel
+    orcid: https://orcid.org/0009-0009-0849-204X
+  - family-names: Vallina-Rodriguez
+    given-names: Narseo
+    orcid: https://orcid.org/0000-0002-5420-6835
+  - family-names: Tapiador
+    given-names: Juan
+    orcid: https://orcid.org/0000-0002-4573-3967
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Moreno
+      given-names: José Miguel
+      orcid: https://orcid.org/0009-0009-0849-204X
+    - family-names: Vallina-Rodriguez
+      given-names: Narseo
+      orcid: https://orcid.org/0000-0002-5420-6835
+    - family-names: Tapiador
+      given-names: Juan
+      orcid: https://orcid.org/0000-0002-4573-3967
+  title: 'Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API'
+  collection-title: Proceedings of the 2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P)
+  conference:
+    name: European Symposium on Security and Privacy
+    alias: EuroS&P
+  publisher:
+    name: Institute of Electrical and Electronics Engineers
+    alias: IEEE
+  year: 2023
+  month: 7

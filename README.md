@@ -27,5 +27,16 @@ All sample extensions can be installed by either:
     - [Another credit card stealer](another-credit-card-stealer/README.md)
     - [Traffic monitor](traffic-monitor/README.md)
 
+## Citing
+```latex
+@inproceedings{chrowned2023,
+  author = {Moreno, José Miguel and Vallina-Rodriguez, Narseo and Tapiador, Juan},
+  title = {{Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API}},
+  booktitle = {{Proceedings of the 2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P)}},
+  year = {2023},
+  month = jul
+}
+```
+
 ## License
 The contents of this repository are available under the [MIT License](LICENSE).
