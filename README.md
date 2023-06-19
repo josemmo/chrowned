@@ -1,4 +1,4 @@
-# *Chrowned* by an Extension: Exploiting the Chrome DevTools Protocol
+# *Chrowned* by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API
 This repository contains the artifacts for the aforementioned paper.
 Each directory contains the files for a different Proof-Of-Concept Chromium
 extension.
