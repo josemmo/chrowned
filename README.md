@@ -33,6 +33,9 @@ All sample extensions can be installed by either:
   author = {Moreno, José Miguel and Vallina-Rodriguez, Narseo and Tapiador, Juan},
   title = {{Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API}},
   booktitle = {{Proceedings of the 2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P)}},
+  pages = {832--846},
+  url = {https://doi.org/10.1109/EuroSP57164.2023.00054},
+  doi = {10.1109/EuroSP57164.2023.00054},
   year = {2023},
   month = jul
 }

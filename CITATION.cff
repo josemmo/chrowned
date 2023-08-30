@@ -26,6 +26,7 @@ preferred-citation:
     - family-names: Tapiador
       given-names: Juan
       orcid: https://orcid.org/0000-0002-4573-3967
+  doi: 10.1109/EuroSP57164.2023.00054
   title: 'Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API'
   collection-title: Proceedings of the 2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P)
   conference:
@@ -34,5 +35,7 @@ preferred-citation:
   publisher:
     name: Institute of Electrical and Electronics Engineers
     alias: IEEE
+  start: 832 # First page number
+  end: 846 # Last page number
   year: 2023
   month: 7
